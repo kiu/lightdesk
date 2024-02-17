@@ -25,6 +25,7 @@ fp-info-cache
 **/.vs/
 **/debug.log
 **/.atmel-start-backup
+**/Debug/
 
 # Object files
 *.o
