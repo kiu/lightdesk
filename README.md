@@ -1,5 +1,7 @@
 # lightdesk
 
+Custom desk light and RGB strip controller
+
 Superseded by [https://github.com/kiu/kha](https://github.com/kiu/kha)
 
 ## Photos
